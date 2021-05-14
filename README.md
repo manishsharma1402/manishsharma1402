@@ -6,5 +6,5 @@
 - 💬 Ask me about Tech related stuff
 - 📫 How to reach me: Mail : ManishSharma00014@gmail.com
 - 📫 Portfolio : https://about.me/ManishSharma1402/ 
-- 📫 Linkedin : @ManishSharma1402
+- 📫 Linkedin : linkedin.com/in/ManishSharma1402/
 -->
