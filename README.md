@@ -5,7 +5,7 @@
 - 🤔 I’m looking for a job in a growth oriented company 
 - 💬 Ask me about Tech related stuff
 - 📫 How to reach me: Mail : ManishSharma00014@gmail.com
-- 📫 Portfolio : https://about.me/ManishSharma1402/ 
+- 📫 Portfolio : https://ManishSharma1402.github.io/ 
 - 📫 Linkedin : https://linkedin.com/in/ManishSharma1402/
 
 -->
